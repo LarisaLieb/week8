@@ -16,3 +16,9 @@ footer {
 .txt-footer {
     color: honeydew;
 }
+
+@media only screen and (max-width: 699px) {
+    .footer {
+        display: none;
+    }
+}
